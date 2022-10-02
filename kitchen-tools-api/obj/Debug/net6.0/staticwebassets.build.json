@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Wd1k7h5f2D54faQC+X1PUNdfMCLfsntfjPUOLBkJYJE=",
+  "Source": "kitchen-tools-api",
+  "BasePath": "_content/kitchen-tools-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

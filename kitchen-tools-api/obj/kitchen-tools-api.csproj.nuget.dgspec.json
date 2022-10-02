@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/albert/projects/kitchen-tools-api/kitchen-tools-api/kitchen-tools-api.csproj": {}
+  },
+  "projects": {
+    "/home/albert/projects/kitchen-tools-api/kitchen-tools-api/kitchen-tools-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/albert/projects/kitchen-tools-api/kitchen-tools-api/kitchen-tools-api.csproj",
+        "projectName": "kitchen-tools-api",
+        "projectPath": "/home/albert/projects/kitchen-tools-api/kitchen-tools-api/kitchen-tools-api.csproj",
+        "packagesPath": "/home/albert/.nuget/packages/",
+        "outputPath": "/home/albert/projects/kitchen-tools-api/kitchen-tools-api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/albert/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.109/sdk/6.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
